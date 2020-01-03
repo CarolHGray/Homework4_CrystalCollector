@@ -1,10 +1,10 @@
-##Crystal Collector
+## Crystal Collector
 
 This is the fourth assignment for the Vandebilt-based Trilogy Coding Bootcamp.
 
 For this assignment, we created an interactive game for web browsers. The app dynamically updates the HTML commands with the jQuery library.
 
-###Instructions:
+### Instructions:
 
 
 The user will be given a random number to start the game.
