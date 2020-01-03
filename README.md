@@ -15,15 +15,16 @@ Four crystals can be seen on the page, each labeled with a number (1 through 4).
 A running tally of wins and losses is shown on the screen.
 
 Click on the following link to preview the completed assignment.
-https://github/CarolH/Gray/Homework4_CrystalCollector.html
+
+https://carolhgray.github.io/Homework4_CrystalCollector/
 
 
 Built With
 
-HTML5
-CSS
-Bootstrap
-JavaScript
-jQuery - JavaScript Library
+* HTML5
+* CSS
+* Bootstrap
+* JavaScript
+* jQuery - JavaScript Library
 
 
